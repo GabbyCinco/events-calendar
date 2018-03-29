@@ -1,9 +1,16 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 table {
   border-collapse: collapse;
+  border-color: #ccc;
+}
+
+th, td {
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 1px;
 }
 
 .box-size {
